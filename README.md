@@ -35,15 +35,8 @@ Shutdown Timer is a simple, user-friendly Python application that allows you to 
    - Use "+10 min" and "-10 min" buttons to adjust the time
    - Click "Pause" to temporarily stop the countdown, and "Continue" to resume
    - Check "Force Shutdown" to force close all applications during shutdown
-   - Enable "Test Mode" to simulate shutdown without actually turning off your computer
+   - Enable "Test Mode" to simulate shutdown without actually turning off your computer (debug feature)
    - Click "Shutdown Now" to initiate an immediate shutdown
-
-## Button Color Guide
-
-- Green: Start/Pause/Continue Timer
-- Blue: Add Time
-- Red: Subtract Time
-- Purple: Shutdown Now
 
 ## Contributing
 
